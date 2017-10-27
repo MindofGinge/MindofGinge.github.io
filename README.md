@@ -4,7 +4,7 @@
 
 
 ```markdown
-**360° photos**
+360° photos
 
 1. [Image]
 (src)
