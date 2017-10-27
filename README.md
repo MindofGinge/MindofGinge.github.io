@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Ricoh Theta 360° Portfolio
 
 You can use the [editor on GitHub](https://github.com/MindofGinge/MindofGinge.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,29 +9,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+### ***`360° photos`***
 
-# Header 1
-## Header 2
-### Header 3
+1. [Image]
+(src)
 
-- Bulleted
-- List
+2. [Image]
+(src)
 
-1. Numbered
-2. List
+3. [Image]
+(src)
 
-**Bold** and _Italic_ and `Code` text
+4. [Image]
+(src)
 
-[Link](url) and ![Image](src)
+//[Link](Url)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MindofGinge/MindofGinge.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
