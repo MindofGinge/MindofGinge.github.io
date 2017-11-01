@@ -7,7 +7,7 @@
 360° photos
 
 1. [Image]
-(src)
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/grrva" ></script>
 
 2. [Image]
 (src)
