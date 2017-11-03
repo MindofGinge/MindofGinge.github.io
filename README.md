@@ -6,15 +6,19 @@
  
 360° photos
 
-1. This is the high school pavilion in my school
+1. The high school pavilion in my school.
 ### 360
 
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/grrva" ></script>
 
 ***
 
-2. [Image]
-(src)
+2. The elementary breezeway at my school. 
+### 360
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/vqkyk" ></script>
+
+***
 
 3. [Image]
 (src)
